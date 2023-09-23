@@ -1,4 +1,5 @@
 const fs = require("fs");
+const MarsRover = require("./rover");
 
 function readInputFromFile(filePath) {
   try {

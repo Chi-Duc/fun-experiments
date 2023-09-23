@@ -65,3 +65,5 @@ class MarsRover {
     return `${this.x} ${this.y} ${this.orientation}`;
   }
 }
+
+module.exports = MarsRover;
